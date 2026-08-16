@@ -266,7 +266,7 @@ Beberapa area yang membutuhkan kontribusi:
 ## 📞 Kontak
 
 Jika ada pertanyaan:
-- **Email:** [email-anda]
+- **Email:** [wyonugrahav2@gmail.com]
 - **GitHub Issues:** [repository-url]/issues
 - **Discussion:** [repository-url]/discussions
 
