@@ -1,0 +1,38 @@
+# Requirements untuk Aplikasi Manajemen Inventaris
+# Python 3.x required
+
+# ============================================
+# RUNTIME DEPENDENCIES (Built-in Python)
+# ============================================
+# Tkinter (biasanya sudah termasuk dalam instalasi Python)
+# Jika tidak ada, install dengan:
+# - Windows: Reinstall Python dengan opsi tcl/tk
+# - Linux: sudo apt-get install python3-tk
+
+# SQLite3 (built-in Python, tidak perlu install)
+
+# Tidak ada dependencies eksternal yang diperlukan
+# Semua library yang digunakan adalah built-in Python
+
+# ============================================
+# BUILD DEPENDENCIES (untuk membuat EXE)
+# ============================================
+# Install dengan: pip install -r requirements.txt
+
+# PyInstaller - untuk membuat executable
+pyinstaller>=5.0.0
+
+# ============================================
+# OPTIONAL DEPENDENCIES
+# ============================================
+# Auto-py-to-exe - GUI untuk PyInstaller (optional)
+# auto-py-to-exe>=2.0.0
+
+# ============================================
+# DEVELOPMENT DEPENDENCIES (optional)
+# ============================================
+# pytest - untuk unit testing
+# pytest>=7.0.0
+
+# pylint - untuk code quality check
+# pylint>=2.0.0
