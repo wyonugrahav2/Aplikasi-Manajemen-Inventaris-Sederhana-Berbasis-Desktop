@@ -173,7 +173,7 @@ project_root/
 
 ## Contributors
 
-- [Nama Mahasiswa] - Developer
+- [Wyo Nugraha] - Developer
 - [Nama Dosen] - Supervisor
 
 ---
