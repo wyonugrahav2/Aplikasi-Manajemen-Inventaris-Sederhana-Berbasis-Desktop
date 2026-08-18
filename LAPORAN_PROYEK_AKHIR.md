@@ -4,11 +4,11 @@
 ---
 
 ### IDENTITAS MAHASISWA
-- **Nama:** [Nama Mahasiswa]
-- **NIM:** [Nomor Induk Mahasiswa]
+- **Nama:** [Wyo Nugraha]
+- **NIM:** [301250008]
 - **Program Studi:** Teknik Informatika
 - **Mata Kuliah:** Proyek Akhir / Pemrograman Desktop
-- **Dosen Pembimbing:** [Nama Dosen]
+- **Dosen Pembimbing:** [Yusuf]
 - **Tahun Akademik:** 2024
 
 ---
